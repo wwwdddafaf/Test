@@ -1,6 +1,6 @@
 #include<iostream.h>
 using namespace std;
- 
+ //dm wibu 
 // Function for extended Euclidean Algorithm
 void gcdExtended(int a, int b)
 {
@@ -30,7 +30,7 @@ void gcdExtended(int a, int b)
 	y=y2;
 	cout<<d<<" "<<x<<" "<<y;
 }
- void nghichdaozn(int a,int b){
+ /*void nghichdaozn(int a,int b){
  	int d,x,y;
 	if(b==0){
 		d=a;
@@ -60,7 +60,7 @@ void gcdExtended(int a, int b)
 		else
 		cout<<x;
  	
- }
+ }*/
 // Driver Code
 int main()
 {
